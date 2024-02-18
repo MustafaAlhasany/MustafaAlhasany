@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Alhasany</h1>
-<h1 align="left">An Information Technology Engineering Student</h1>
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="h-fares" /> </p>
-
-
+<h2 align="left">An Information Technology Engineering Student</h2>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
 <p align="left">
