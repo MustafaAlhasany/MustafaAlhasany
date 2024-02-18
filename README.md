@@ -55,16 +55,3 @@
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=h-fares&show_icons=true&theme=dark&locale=en" alt="h-fares" align=center/></p>
-
--------
-<details>
-<summary>Preview  </summary>
-
-[name](filename 'h-fares.md')
-
-</details>
-
- ------
-Credit: [h-fares](https://github.com/h-fares)
-
-Last Edited on: 01/05/2022
