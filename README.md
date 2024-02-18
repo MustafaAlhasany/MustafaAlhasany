@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mustafa Alhasany</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Myself Om Patel</h1>
 <h2 align="left">An Information Technology Engineering Student</h2>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
