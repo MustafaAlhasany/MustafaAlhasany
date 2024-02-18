@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Alhasany</h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=An+Informatics+Technology+Engineer)](https://git.io/typing-svg)
+<h1 align="left">An Information Technology Engineering Student</h1>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="h-fares" /> </p>
 
@@ -32,4 +31,5 @@
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Software & Tools
    <a href="github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" alt="mysql" width="40" height="40"/> </a> 
